@@ -23,3 +23,21 @@
 </p>
 
 <p> Currently Persuing a Bachelor of Computer Science (Software Engineering) </p> <p align="left"> </p> <p> Secondary School: SMK SS17, Subang Jaya </p> <p align="left"> </p> <p> Primary School: SKPJ SS19, Subang Jaya </p>
+
+<h4 align="center">Positions</h4>
+
+<p align="left">
+</p>
+
+<p>Batch Representative (2023 - Current) </p> <p align="left"></p> <p>Vice President 1, Sakura Seisaku Club (2023 - Current) </p>
+
+<p align="left">
+</p>
+
+<h3 align="center">TIS Assignments</h3>
+
+- Industry Talk and Industry Visit [Assignment 1 (Poster)](https://www.canva.com/design/DAF1UufUhp8/i7l-I3K_uKnhP8ByEVqMaw/edit?utm_content=DAF1UufUhp8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<p align="left"></p>
+
+
