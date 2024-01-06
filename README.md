@@ -12,7 +12,7 @@
 <p align="left">
 </p>
 
-<p> I am from Kuala Lumpur, Malaysia and currently a software engineering student at MJIIT while also enhancing my skills in graphic design and video editing as that is my hobby. Currently the Vice President 1 for the Sakura Seisaku Club, a multimedia club to gather creative students in MJIIT and also to assist with the faculty's marketing. </p>
+<p> I am from Kuala Lumpur, Malaysia and currently a software engineering student at MJIIT while also enhancing my skills in graphic design and video editing as that is my hobby. </p>
 
 <p align="left">
 </p>
