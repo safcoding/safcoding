@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safuan</h1>
 <h3 align="center">A Software Engineering Student at UTM-MJIIT (Universiti Teknologi Malaysia - Malaysia Japan Insitute of Technology)</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
