@@ -36,7 +36,9 @@
 
 <h3 align="center">TIS Assignments</h3>
 
-- Industry Talk and Industry Visit [Assignment 1 (Poster)](https://www.canva.com/design/DAF1UufUhp8/i7l-I3K_uKnhP8ByEVqMaw/edit?utm_content=DAF1UufUhp8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Industry Talk [Assignment 1 (Poster)](https://drive.google.com/file/d/1iqjSzW-q8jedGMrWkwXFFmGu5O5Y75I5/view?usp=sharing)
+
+- Industrial Visit [Assignment 4 (Nesletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view?usp=sharing)
 
 <p align="left"></p>
 
