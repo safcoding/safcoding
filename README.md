@@ -37,8 +37,12 @@
 <h3 align="center">TIS Assignments</h3>
 
 - Industry Talk [Assignment 1 (Poster)](https://drive.google.com/file/d/1iqjSzW-q8jedGMrWkwXFFmGu5O5Y75I5/view?usp=sharing)
-
+  
+- Industry Talk 2 [Assignment 3 (Report)](https://drive.google.com/file/d/1BPG_SIO5OsKg2D9B1l2Hy1v2F2rEQxS1/view?usp=sharing)
+  
 - Industrial Visit [Assignment 4 (Nesletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view?usp=sharing)
+
+
 
 <p align="left"></p>
 
