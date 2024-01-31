@@ -44,6 +44,8 @@
   
 - Industrial Visit [Assignment 4 (Nesletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view?usp=sharing)
 
+- Design Thinking [Report](https://drive.google.com/file/d/1JGf0-5uXvDVFuoiU4y0PtukMPA0G6GHV/view?usp=sharing), [Video](https://drive.google.com/file/d/1LTcT1JoFKyQowITZMSiFRrtG32prM2I2/view?usp=sharing)
+
 
 
 <p align="left"></p>
