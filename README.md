@@ -37,14 +37,24 @@
 <h3 align="center">TIS Assignments</h3>
 
 - Industry Talk [Assignment 1 (Poster)](https://drive.google.com/file/d/1iqjSzW-q8jedGMrWkwXFFmGu5O5Y75I5/view?usp=sharing)
+  
+<p> This was a very interesting talk and the insight into clarityworks was inspiring since we can see how each role perfomrs </p> <p align="left"> </p>
 
 - Virtual Talk on UTMDigital [Assignment 2 (Video)](https://drive.google.com/file/d/10mLUa61IYhGQR9qHu7RUWMheWo9wGcHi/view?usp=sharing)
+
+  <p>  I was curious to see how UTMDigital operated and its amazing how they are able to sustain the IT infrastructure for the university  </p> <p align="left"> </p>
   
 - Industry Talk 2 [Assignment 3 (Report)](https://drive.google.com/file/d/1BPG_SIO5OsKg2D9B1l2Hy1v2F2rEQxS1/view?usp=sharing)
+
+  <p> Credence is a very interesting company that is specialized in data analytics and more services. The insight was very helpful and gives me inspiration </p> <p align="left"> </p>
   
-- Industrial Visit [Assignment 4 (Nesletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view?usp=sharing)
+- Industrial Visit [Assignment 4 (Newsletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view?usp=sharing)
+
+  <p> The visit to Indah Water Konsortium was very interesting as we saw how software was used together with hardware in order to maintain and oversee a whole water treatement plant</p> <p align="left"> </p>
 
 - Design Thinking [Report](https://drive.google.com/file/d/1JGf0-5uXvDVFuoiU4y0PtukMPA0G6GHV/view?usp=sharing), [Video](https://drive.google.com/file/d/1LTcT1JoFKyQowITZMSiFRrtG32prM2I2/view?usp=sharing)
+
+  <p> Design Thingking opened my eyes to a new way that's more systematic to designing a system and will definitely implement it in the future </p> <p align="left"> </p>
 
 
 
