@@ -22,7 +22,7 @@
 <p align="left">
 </p>
 
-<p> Currently Persuing a Bachelor of Computer Science (Software Engineering) </p> <p align="left"> </p> <p> Secondary School: SMK SS17, Subang Jaya </p> <p align="left"> </p> <p> Primary School: SKPJ SS19, Subang Jaya </p>
+<p> Currently Persuing a Bachelor of Computer Science (Software Engineering) </p> <p align="left"> </p>
 
 <h3 align="center">Positions</h3>
 
