@@ -1,36 +1,45 @@
-<h1 align="center">Hi 👋, I'm Safuan</h1>
-<h3 align="center">A Software Engineering Student at UTM-MJIIT (Universiti Teknologi Malaysia - Malaysia Japan Insitute of Technology)</h3>
+### Hi👋, I'm Safuan
+### A final year SWE student at Universiti Teknologi Malaysia focused in web development to make efficient and practical systems
 
-<p align="left">
-</p>
+```text
+Currently working on: Final Year Project (B2B Ticketing System)
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## Cool projects I've done so far
+1. Faculty Research Platform for MJIIT Researchers <a href="https://youtu.be/R4eK0nSwrA0"> ResearchHub (Assignment)</a>
+2. Kinda like reddit (but worse) <a href="https://youtu.be/2SzoERuZbug"> UTMHub (Assignment)</a>
+3. Grab for ambulances (hackathons are tuff) <a href="https://youtu.be/JA9NDwUAAew"> PulseRoute (Hackathon)</a>
 
-<h3 align="center">Summary</h3>
 
-<p align="left">
-</p>
-
-<p> I am from Kuala Lumpur, Malaysia and currently a software engineering student at MJIIT while also enhancing my skills in graphic design and video editing as that is my hobby. </p>
-
-<p align="left">
-</p>
-
-<h3 align="center">Education</h3>
-
-<p align="left">
-</p>
-
-<p> Currently Persuing a Bachelor of Computer Science (Software Engineering) </p> <p align="left"> </p>
-
-<h3 align="center">Positions</h3>
-
-<p align="left">
-</p>
-
-<p>Batch Representative (2023 - Current) </p> <p align="left"></p> <p>Vice President 1, Sakura Seisaku Club (2023 - Current) </p>
-
-<p align="left">
-</p>
-
+### Dev thingies I use
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="30" alt="tanstack logo"  />
+  <img width="12" />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.0~s.iziag2xd..svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+</div>
+<br>
+<br>
+<div align="center">
+  <a href="safuanhakim003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/safuan-hakim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+  </a>
+  <a href="https://steamcommunity.com/id/safuyuu/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="linkedin logo"  />
+  </a>
+</div>
