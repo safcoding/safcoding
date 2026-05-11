@@ -33,7 +33,7 @@ Currently working on: Final Year Project (B2B Ticketing System)
 <br>
 <br>
 <div align="center">
-  <a href="safuanhakim003@gmail.com" target="_blank">
+  <a href="mailto:safuanhakim003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin logo"  />
   </a>
   <a href="https://www.linkedin.com/in/safuan-hakim/" target="_blank">
