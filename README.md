@@ -1,4 +1,4 @@
-### Hi👋, I'm Safuan
+### Halo, I'm Safuan
 ### A final year SWE student at Universiti Teknologi Malaysia focused in web development to make efficient and practical systems
 
 ```text
