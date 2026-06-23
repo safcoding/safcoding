@@ -2,7 +2,7 @@
 ### A final year SWE student at Universiti Teknologi Malaysia focused in web development to make efficient and practical systems
 
 ```text
-Currently working on: Final Year Project (B2B Ticketing System)
+Currently working on: Learning how to make a custom RAG for funsies
 ```
 
 ## Cool projects I've done so far
