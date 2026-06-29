@@ -26,10 +26,19 @@ Currently working on: Learning how to make a custom RAG for funsies
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" alt="astro logo />
+  <img width="12" />
   <img src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="30" alt="tanstack logo"  />
   <img width="12" />
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.0~s.iziag2xd..svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="30" alt="postman logo />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="30" alt="playwright logo />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="30" alt="vitest logo />
+  <img width="12" />
+  
 </div>
 <br>
 <br>
